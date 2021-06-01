@@ -86,7 +86,7 @@ const styles = StyleSheet.create({
     width: 16,
     borderRadius: 8,
     borderWidth: 1,
-    borderColor: "#3D3D4D",
+    borderColor: "#212136",
     marginRight: 10,
   },
   taskText: {
@@ -98,7 +98,7 @@ const styles = StyleSheet.create({
     paddingVertical: 12,
     marginBottom: 4,
     borderRadius: 4,
-    backgroundColor: "rgba(25, 61, 223, 0.1)",
+    backgroundColor: "#1F1F1F",
     flexDirection: "row",
     alignItems: "center",
   },
@@ -106,7 +106,7 @@ const styles = StyleSheet.create({
     height: 16,
     width: 16,
     borderRadius: 8,
-    backgroundColor: "#273FAD",
+    backgroundColor: "#565BFF",
     marginRight: 10,
   },
   taskTextDone: {

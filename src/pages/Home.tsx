@@ -27,7 +27,6 @@ export function Home() {
 
     const newTasks = [...new Set([task, ...tasks])];
 
-    console.log(newTasks);
     setTasks(newTasks);
   }
 
